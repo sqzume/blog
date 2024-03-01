@@ -1,0 +1,4 @@
+baseURL: "https://blog.sqzume.net/"
+languageCode: "ja"
+title: "さずめがいろいろ書くところ"
+theme: "hugo-theme-stack"
